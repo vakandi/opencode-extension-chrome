@@ -1,0 +1,11 @@
+# Kept locally only — this is the decompiled third-party OpenCode extension,
+# used as a reference while migrating to the v2 API. Not redistributed.
+decompiled/
+
+# macOS / editor
+.DS_Store
+*.swp
+*~
+
+# local tooling artefacts
+.playwright-mcp/
